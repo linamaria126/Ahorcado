@@ -1,3 +1,6 @@
+![ahorcado](https://user-images.githubusercontent.com/66230572/220740730-174960bb-d1d0-4dd3-b08d-b77d9333482f.jpeg)
+
+
 <h1 align="center">  Ahorcado </h1>
 
 <h3> Descripción del Proyecto </h3>
