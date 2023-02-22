@@ -4,7 +4,7 @@
 <h1 align="center">  Ahorcado </h1>
 
 <h3> Descripción del Proyecto </h3>
-Juego de ahorcado, Proyecto tarea que formó parte del primer módulo frontend, del programa ONE-Oracle Next Education de Alura Latam
+Juego de ahorcado, Proyecto tarea que formó parte del primer módulo  de programación, del programa ONE-Oracle Next Education de Alura Latam
 
 <h3>  Proyecto realizado por: </h3>
 Lina María Cardona, dentro del programa ONE-Oracle Next Education de Alura Latam
