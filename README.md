@@ -20,4 +20,4 @@ Abrir documento index.html
 5. Tanto si ganas como si pierdes la partida de 'Ahorcado' puedes volver a iniciar dando en el botón 'INICIO' de nuevo. Mientras no pase ninguna de las dos opciones, el botón 'INICIO' se encontrará desactivado.
 
 <h3>  Estado del proyecto </h3>
-Por mejorar, sobretodo la parte visual, el enfoque estuvo centrado en lograr el funcionamiento del juego con el objetivo de reforzar los temas aprendidos en el lenguaje 'Javascript'.
+Por mejorar, sobretodo la parte visual, el enfoque estuvo centrado en lograr el funcionamiento del juego con el objetivo de reforzar los temas aprendidos en el lenguaje 'Javascript'. El botón agregar palabra está en desarrollo.
