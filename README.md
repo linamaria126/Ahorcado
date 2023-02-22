@@ -17,7 +17,7 @@ Abrir documento index.html
 2. Selecciona una letra: Se ubicará la letra en cada una de las posiciones destinadas para cada letra; en caso de que la letra seleccionada no forme parte de la palabra, empezará a aparecer cada una de las partes del ´muñeco ahorcado'.
 3. Se tendrán siete oportunidades de equivocación, antes de que se termine el juego y se pierda la oportunidad de ganar.
 4. Si antes de agotar las posibilidades de equivocación se completa la palabra seleccionada aparecerá un aviso de 'GANASTE', lo cual significa que ganaste la partida.
-5. Tanto si ganas como si pierdes la partida de 'Ahorcado' puedes volver a iniciar dando en el botón 'INICIO' de nuevo. Mientras no pase ninguna de las dos opciones, el botón 'INICIO'se encontrará desactivado.
+5. Tanto si ganas como si pierdes la partida de 'Ahorcado' puedes volver a iniciar dando en el botón 'INICIO' de nuevo. Mientras no pase ninguna de las dos opciones, el botón 'INICIO' se encontrará desactivado.
 
 <h3>  Estado del proyecto </h3>
 Por mejorar, sobretodo la parte visual, el enfoque estuvo centrado en lograr el funcionamiento del juego con el objetivo de reforzar los temas aprendidos en el lenguaje 'Javascript'.
